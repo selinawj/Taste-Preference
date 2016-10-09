@@ -59,7 +59,7 @@ $(function () {
                 drilldown: 'Oil_high'
             }, {
             	name: 'Nothing_selected',
-            	y: 12.94,
+            	y: 18.59,
             	drilldown: 'Nothing_selected'
             }]
         }],
