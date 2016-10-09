@@ -12,10 +12,10 @@ $(function () {
             type: 'pie'
         },
         title: {
-            text: 'Taste Preferences of Mains by Customers (October 2016)'
+            text: 'Taste Preferences for Main Courses (October 2016)'
         },
         subtitle: {
-            text: 'Click the slices to view contributions of individual mains to taste preferences.'
+            text: 'Click the slices to view each the contributions of each individual main course with regards to taste preferences.'
         },
         plotOptions: {
             series: {
